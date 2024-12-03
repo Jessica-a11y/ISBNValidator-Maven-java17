@@ -4,6 +4,7 @@ public class Book {
 	private String isbn;
 	private String title;
 	private String author;
+	private String numberOfChapters;
 	
 	public Book(String isbn, String title, String author) {
 		this.isbn= isbn;
